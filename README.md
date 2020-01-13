@@ -1,7 +1,7 @@
 <h1>Tic Tac Foe</h1>
 <p>Interactive tic-tac-toe game created with tkinter</p>
 
-<img src="https://github.com/tlyang168/tictacfoe/blob/master/demo_tic.gif" width="400" height="600">
+<img src="https://github.com/tlyang168/tictacfoe/blob/master/demo_tic.gif" width="600" height="400">
 
 <h2>About</h2>
 <ul>
